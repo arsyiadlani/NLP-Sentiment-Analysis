@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-A sentiment analysis as NLP project using Reddit sentiment data
+A sentiment analysis as NLP project using Reddit sentiment dataset

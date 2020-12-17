@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-A sentiment analysis as NLP project using Reddit sentiment dataset with embedding vectors technique and LSTM layer.
+A sentiment analysis as NLP project with Reddit sentiment dataset using embedding vectors technique and LSTM layer.
